@@ -1,0 +1,16 @@
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\bin\Debug\net5.0\marsmission.exe
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\bin\Debug\net5.0\marsmission.deps.json
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\bin\Debug\net5.0\marsmission.runtimeconfig.json
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\bin\Debug\net5.0\marsmission.runtimeconfig.dev.json
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\bin\Debug\net5.0\marsmission.dll
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\bin\Debug\net5.0\ref\marsmission.dll
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\bin\Debug\net5.0\marsmission.pdb
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\obj\Debug\net5.0\marsmission.csprojAssemblyReference.cache
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\obj\Debug\net5.0\marsmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\obj\Debug\net5.0\marsmission.AssemblyInfoInputs.cache
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\obj\Debug\net5.0\marsmission.AssemblyInfo.cs
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\obj\Debug\net5.0\marsmission.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\obj\Debug\net5.0\marsmission.dll
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\obj\Debug\net5.0\ref\marsmission.dll
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\obj\Debug\net5.0\marsmission.pdb
+C:\Users\serbi\Downloads\marsmission\marsmission\marsmission\obj\Debug\net5.0\marsmission.genruntimeconfig.cache
